@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeS4LjbkrXfCSnrugBKBQNinheNVrNo3xI/RGQWtVqWQYHWyvbs6PxA9CMoNRkrl3stNJEwYGlLflGjMDwXGbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Visual Studio 2019\\Chat\\SocketClient_work_edit_home\\SocketClient\\SocketClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\3.1.5\\microsoft.netcore.app.runtime.linux-arm.3.1.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\3.1.5\\microsoft.aspnetcore.app.runtime.linux-arm.3.1.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\3.1.5\\microsoft.netcore.app.host.linux-arm.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

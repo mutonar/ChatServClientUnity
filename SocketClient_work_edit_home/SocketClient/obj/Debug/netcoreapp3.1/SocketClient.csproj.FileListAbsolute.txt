@@ -1,0 +1,93 @@
+C:\Users\Tom\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+C:\Users\Tom\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+C:\Users\Tom\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+C:\Users\Tom\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Tom\source\repos\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\Tom\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+C:\Users\Tom\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Tom\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\Tom\source\repos\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+H:\Build\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+H:\Build\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+H:\Build\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+H:\Build\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+H:\Build\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+H:\Build\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+H:\Build\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+H:\Build\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+H:\Build\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+H:\Build\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+H:\Build\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+H:\Build\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+H:\Build\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\admin\Documents\Visual Studio 2019\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.AssemblyReference.cache
+C:\Users\Nazarov\source\repos\Socket\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+E:\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+E:\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+E:\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+E:\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+E:\SocketClient\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.AssemblyReference.cache
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+E:\SocketClient\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache
+I:\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.exe
+I:\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.deps.json
+I:\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.json
+I:\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.runtimeconfig.dev.json
+I:\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.dll
+I:\Chat\SocketClient_work_edit_home\SocketClient\bin\Debug\netcoreapp3.1\SocketClient.pdb
+I:\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csprojAssemblyReference.cache
+I:\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfoInputs.cache
+I:\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.AssemblyInfo.cs
+I:\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.csproj.CoreCompileInputs.cache
+I:\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.dll
+I:\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.pdb
+I:\Chat\SocketClient_work_edit_home\SocketClient\obj\Debug\netcoreapp3.1\SocketClient.genruntimeconfig.cache

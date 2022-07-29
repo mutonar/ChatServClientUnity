@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/di6JzVGZaf6jZb0yuKJaHNQOlGKuRAyBAQP6Cddle79ZLJGDbRgkBJ+NKwVe0oHzFKdkLy5ydphSD+tZdXog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Documents\\Visual Studio 2019\\Chat\\SocketServerChat\\SocketServerChat\\SocketServerChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.5\\microsoft.netcore.app.runtime.win-x86.3.1.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.5\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.5\\microsoft.aspnetcore.app.runtime.win-x86.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

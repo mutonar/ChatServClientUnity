@@ -1,0 +1,26 @@
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.exe
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.deps.json
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.runtimeconfig.json
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.runtimeconfig.dev.json
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.dll
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.AssemblyInfo.cs
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.dll
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.pdb
+C:\Users\admin\Documents\Visual Studio 2019\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.genruntimeconfig.cache
+I:\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.exe
+I:\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.deps.json
+I:\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.runtimeconfig.json
+I:\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.runtimeconfig.dev.json
+I:\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.dll
+I:\Chat\SocketServerChat\SocketServerChat\bin\Release\netcoreapp3.1\SocketServerChat.pdb
+I:\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.csprojAssemblyReference.cache
+I:\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.AssemblyInfoInputs.cache
+I:\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.AssemblyInfo.cs
+I:\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.csproj.CoreCompileInputs.cache
+I:\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.dll
+I:\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.pdb
+I:\Chat\SocketServerChat\SocketServerChat\obj\Release\netcoreapp3.1\SocketServerChat.genruntimeconfig.cache
